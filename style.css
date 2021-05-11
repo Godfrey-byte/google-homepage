@@ -1,0 +1,74 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    justify-content: center;
+}
+
+.top-menu{
+    height: 30px;
+    width: auto;
+    top: 50px;
+    bottom: 20px;
+    clear: both;
+}
+
+.top-menu .row{
+    margin-right: 40px;
+}
+
+.top-menu div{
+    display: inline;
+    margin-left: 10px;
+    float: right;
+}
+
+.google-panel{
+    position: relative;
+    align-content: center;
+}
+
+.logo img{
+    height: 130px; 
+    width: 80%;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    justify-content: center;
+}
+
+form input{
+    float: left;
+    width: 40%;
+    height: 40px;
+    margin-left: 360px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+span{
+    color: black;
+}
+
+footer{
+    margin-top: 290px;
+    margin-right: 40px;
+}
+footer li{
+    display: inline;
+    padding-right: 15px;
+    list-style: none;
+}
+
+#right{
+    float: right;
+}
+#left{
+    float: left;
+}
