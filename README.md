@@ -1,0 +1,2 @@
+GOOGLE HOMEPAGE 
+I designed a google homepage with reflection to the original one,through the process have learned the html and css basics and fundamentals that are necessary for a webpage formatting so that a web browser can be able to parse developer's idea.
